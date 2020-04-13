@@ -1,7 +1,7 @@
 # pydino
 PyDino is a robot to play Google Dino Game.
 
-###[tested on]:
+### [tested on]:
 ```
 python 3.7.3
 ```
@@ -12,12 +12,12 @@ Chrome 80.0.3987.163
 Resolution: 1366x768
 ```
 
-###[to install]:
+### [to install]:
 ```
 pip install -r requeriments.txt
 ```
 
-###[to run]:
+### [to run]:
 ```
 Open the site chrome://dino in our Google Chrome
 ```
